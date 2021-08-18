@@ -1,0 +1,1 @@
+O ip da camera da pumatronix é 192.168.10.203
